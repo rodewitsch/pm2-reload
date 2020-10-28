@@ -4,10 +4,16 @@ Sometimes, in some versions of pm2, the reload command is incorrect or does not 
 
 ### Installing pm2-reload
 
-With NPM:
+With NPM from Github:
 
 ```bash
 $ npm i -g git+https://github.com/rodewitsch/pm2-reload.git
+```
+
+With NPM:
+
+```bash
+$ npm i -g @rodewitsch/pm2-reload
 ```
 
 Example:
