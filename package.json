@@ -1,8 +1,10 @@
 {
-  "name": "pm2-reload",
+  "name": "@rodewitsch/pm2-reload",
   "version": "1.0.0",
   "description": "",
-  "bin": "index.js",
+  "bin": {
+    "pm2-reload": "index.js"
+  },
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
