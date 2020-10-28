@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const pm2 = require('pm2'),
     PROCESS_NAME = getArg('--name'),
     DELAY = getArg('--delay');
