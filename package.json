@@ -4,6 +4,13 @@
   "description": "",
   "bin": "index.js",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodewitsch/pm2-reload.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
