@@ -18,6 +18,8 @@ $ npm i -g @rodewitsch/pm2-reload
 
 Example:
 
+```bash
 pm2-reload --name clusteredAppName --delay 30000
+```
 
 Will restart the application with the specified name with a wait of 30 seconds.
