@@ -16,7 +16,7 @@ With NPM:
 $ npm i -g @rodewitsch/pm2-reload
 ```
 
-Example:
+### Usage example
 
 ```bash
 pm2-reload --name clusteredAppName --delay 30000
