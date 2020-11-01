@@ -1,10 +1,14 @@
 {
   "name": "@rodewitsch/pm2-reload",
   "version": "1.0.2",
-  "description": "",
+  "description": "PM2 Graceful Restart",
   "bin": {
     "pm2-reload": "index.js"
   },
+  "keywords": [
+    "pm2",
+    "cli"
+  ],
   "main": "index.js",
   "publishConfig": [
     {
